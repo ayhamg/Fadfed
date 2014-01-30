@@ -13,11 +13,6 @@
  ------------- API Connection ----------------
  ---------------------------------------------
  */
-<<<<<<< HEAD
-=======
-#define WAEL @"WAEL"
-
->>>>>>> 30000077dee51aea9e45cd35e9ed2ffa40c581fe
 // Parse Credentials
 #define PARSE_APP_ID                @"Shq3Gmc9X1iyv91YYBwY5WA0FW6CKBr2A5Dnzhdz"
 #define PARSE_CLIENT_ID             @"JeEYt01wQKufMfxNDuhpCicqVtWnhHWWCkqUQuw2"
