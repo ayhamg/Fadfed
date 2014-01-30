@@ -13,16 +13,7 @@
  ------------- API Connection ----------------
  ---------------------------------------------
  */
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 1d54ef6c2d4b87f911049e243362bc4383335290
-=======
 #define Hani    @"Hani"
->>>>>>> 1d54ef6c2d4b87f911049e243362bc4383335290
-=======
-#define Hani    @"Hani"
->>>>>>> 1d54ef6c2d4b87f911049e243362bc4383335290
 // Parse Credentials
 #define PARSE_APP_ID                @"Shq3Gmc9X1iyv91YYBwY5WA0FW6CKBr2A5Dnzhdz"
 #define PARSE_CLIENT_ID             @"JeEYt01wQKufMfxNDuhpCicqVtWnhHWWCkqUQuw2"
