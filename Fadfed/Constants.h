@@ -13,7 +13,6 @@
  ------------- API Connection ----------------
  ---------------------------------------------
  */
-// Hani
 #define WAEL @"WAEL"
 
 // Parse Credentials
