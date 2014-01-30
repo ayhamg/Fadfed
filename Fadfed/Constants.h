@@ -15,6 +15,10 @@
  */
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 1d54ef6c2d4b87f911049e243362bc4383335290
+=======
+#define Hani    @"Hani"
 >>>>>>> 1d54ef6c2d4b87f911049e243362bc4383335290
 =======
 #define Hani    @"Hani"
